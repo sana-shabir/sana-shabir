@@ -62,6 +62,7 @@ University of Engineering and Technology (UET), Lahore
 - Data Structures and Algorithms
 - SQL
 - Git & GitHub
+-Ecommerce
 
 ---
 
